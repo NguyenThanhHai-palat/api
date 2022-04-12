@@ -80,6 +80,9 @@ function getnameC(cname) {
   }
   return "";
 }
+window.onload = function consoletapi() {
+	console.clear();
+	console.info("Bạn Đang Muốn Phát Triển Website này ?, liên hệ với chúng tôi: mail@8a3thsp.cf");
+}
 
-console.image("http://i.imgur.com/hv6pwkb.png");
 //Contact with Palat in Nguyenthanhhai12072008@gmail.com
