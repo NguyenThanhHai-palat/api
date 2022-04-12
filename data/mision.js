@@ -81,4 +81,5 @@ function getnameC(cname) {
   return "";
 }
 
+console.image("http://i.imgur.com/hv6pwkb.png");
 //Contact with Palat in Nguyenthanhhai12072008@gmail.com
